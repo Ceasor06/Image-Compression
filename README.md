@@ -36,7 +36,11 @@ For Autoencoder dataset used was Fashion-MNIST which is on [kaggle](https://www.
 **This dataset consists of 785 columns, in which I created a class size of 10*10, this is what the dataset looks like :**
 
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/105945382/211193297-28f55220-7da7-4aa1-b48c-46bed18d898d.png">
+
+For Huffman and DCT:
+
+3 images were used that are given [here](https://github.com/Ceasor06/Image-Compression/tree/main/Images%20Used%20for%20Huffman%20and%20DCT).
 <hr>
-For Huffman and DCT, 3 images were used that are given [here]().
+
 
 
