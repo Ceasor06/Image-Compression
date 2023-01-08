@@ -34,5 +34,8 @@ and DCT matlab file is [here](https://github.com/Ceasor06/Image-Compression/tree
 For Autoencoder dataset used was Fashion-MNIST which is on [kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
  - Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
  
-This dataset consists of 785 columns, in which I created a class size of 10*10: 
+**This dataset consists of 785 columns, in which I created a class size of 10*10, this is what the dataset looks like :**
 
+<img width="852" alt="image" src="https://user-images.githubusercontent.com/105945382/211193297-28f55220-7da7-4aa1-b48c-46bed18d898d.png">
+
+For huffman, 3 images were used that
