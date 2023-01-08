@@ -2,8 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/105945382/211190641-a356c190-6744-4edb-9a61-f50a7e9e102a.png)
 
-Image compression is minimizing the size in bytes of a graphics file without degrading the quality of the image to an unacceptable level. 
-The reduction in file size allows more images to be stored in a given amount of disk or memory space.
+Image compression is minimizing the size in bytes of a graphics file without degrading the quality of the image to an unacceptable level. The reduction in file size allows more images to be stored in a given amount of disk or memory space.
 It also reduces the time required for images to be sent over the Internet or downloaded from Web pages.
 There are numerous picture compression algorithms available . Among all of these algorithms, in this project I used 3 algorithms implemented on colab and matlab.
 
@@ -37,5 +36,7 @@ For Autoencoder dataset used was Fashion-MNIST which is on [kaggle](https://www.
 **This dataset consists of 785 columns, in which I created a class size of 10*10, this is what the dataset looks like :**
 
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/105945382/211193297-28f55220-7da7-4aa1-b48c-46bed18d898d.png">
+<hr>
+For Huffman and DCT, 3 images were used that are given [here]().
 
-For huffman, 3 images were used that
+
