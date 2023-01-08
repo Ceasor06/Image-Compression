@@ -24,7 +24,7 @@ There are numerous picture compression algorithms available . Among all of these
 ***In this project, Huffman and DCT were implemented on MATLAB and encoder on colab.***
 
 Huffman algorithm matlab file is given [here](https://github.com/Ceasor06/Image-Compression/tree/main/Huffman-algorithm), 
-and DCT matlab file is [here]().
+and DCT matlab file is [here](https://github.com/Ceasor06/Image-Compression/tree/main/DCT).
 
 
 <hr>
