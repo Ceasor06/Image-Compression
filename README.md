@@ -21,6 +21,11 @@ There are numerous picture compression algorithms available . Among all of these
   
   - An autoencoder neural network is an Unsupervised Machine learning algorithm that applies backpropagation, setting the target values to be equal to the inputs. Autoencoders are used to reduce the size of our inputs into a smaller representation. If anyone needs the original data, they can reconstruct it from the compressed data.
 
+***In this project, Huffman and DCT were implemented on MATLAB and encoder on colab.***
+
+Huffman algorithm matlab file is given [here](), and DCT matlab file is [here]().
+
+
 <hr>
   
   
