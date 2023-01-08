@@ -18,3 +18,9 @@ There are numerous picture compression algorithms available . Among all of these
   - The DCT can be used to convert the signal (spatial information) into numeric data ("frequency" or "spectral" information) so that the image's information exists in a quantitative form that can be manipulated for compression. The signal for a graphical image can be thought of as a three-dimensional signal.
 
 + Convolutional Autoencoder
+  
+  - An autoencoder neural network is an Unsupervised Machine learning algorithm that applies backpropagation, setting the target values to be equal to the inputs. Autoencoders are used to reduce the size of our inputs into a smaller representation. If anyone needs the original data, they can reconstruct it from the compressed data.
+
+<hr>
+  
+  
