@@ -53,9 +53,6 @@ For Huffman and DCT:
 
 
 
-
-
-
 _Entropy, Average code word length and code efficiency of the Huffman Coding is given as :_
 
 | Image | Entropy | Average Code Word Length | Coding Efficiency |
@@ -63,5 +60,8 @@ _Entropy, Average code word length and code efficiency of the Huffman Coding is 
 | Image 1 | 7.8224 | 7.892 | 99.623 |
 | Image 2 | 7.8082 | 7.88423 | 99.562 |
 | Image 3 | 7.8312 | 7.8487 | 99.777 |
+<hr>
+
+### DISCRETE COSINE TRANSFORM
 
 
