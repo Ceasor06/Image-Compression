@@ -19,6 +19,8 @@ There are numerous picture compression algorithms available . Among all of these
 + Convolutional Autoencoder
   
   - An autoencoder neural network is an Unsupervised Machine learning algorithm that applies backpropagation, setting the target values to be equal to the inputs. Autoencoders are used to reduce the size of our inputs into a smaller representation. If anyone needs the original data, they can reconstruct it from the compressed data.
+  - This model consists of two building blocks the encoder, and the decoder. The former encodes the input data as 1-D vectors, which are then to be decoded to reconstruct the original data.
+
 
 ***In this project, Huffman and DCT were implemented on MATLAB and encoder on colab.***
 
@@ -77,8 +79,20 @@ _The average ccompression offered by this approach is 56.956%._
 
 ### AUTO-ENCODER
 
-The autoencoder successfully encoded the image with a loss of 0.280 and with an accuracy of 50. The encoder block successfully encoded the given image
+The autoencoder successfully encode the image and decode the image with the accuracy of the 51% and with a cost of 0.28 This model can be used in secure communication of army and any other places where secure communication is needed . This autoencoder can help to reduce the noise from the image also and make the image noise free .
 
-<img width="1022" alt="image" src="https://user-images.githubusercontent.com/105945382/211366389-f2bb9508-0835-421e-acfb-da20c61fe5d0.png">
+- The autoencoder successfully encoded the image with a loss of 0.280 and with an accuracy of 50. The encoder block successfully encoded the given image :
 
+
+
+   - <img width="1022" alt="image" src="https://user-images.githubusercontent.com/105945382/211366389-f2bb9508-0835-421e-acfb-da20c61fe5d0.png">
+
+* The decoder block successfully regenerated the image from the coded image as shown :
+
+
+
+
+   - <img width="1022" alt="image" src="https://user-images.githubusercontent.com/105945382/211371313-7da506b6-4ba9-4a89-b554-4a203a2704dd.png">
+
+<hr>
 
