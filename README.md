@@ -64,4 +64,9 @@ _Entropy, Average code word length and code efficiency of the Huffman Coding is 
 
 ### DISCRETE COSINE TRANSFORM
 
+| Image | Input Image Size | Output Image Size | Percentage % |
+| :---: | :---: | :---: | :---: |
+| Image 1 | 291 KB | 209 KB | 28.17 |
+| Image 2 | 426 KB | 147 KB | 65.5 |
+| Image 3 | 934 KB | 213 KB | 77.2 |
 
