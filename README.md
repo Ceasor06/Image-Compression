@@ -46,12 +46,9 @@ For Huffman and DCT:
 
 ### HUFFMAN ALGORITHM :
 
-Image before compression :
+***Image before compression :***
 
-<img src="https://github.com/Ceasor06/Image-Compression/blob/main/Images%20Used%20for%20Huffman%20and%20DCT/image2.jpeg" width="500" height="300" />
-
-
-
+<img src="https://github.com/Ceasor06/Image-Compression/blob/main/Images%20Used%20for%20Huffman%20and%20DCT/image2.jpeg" width="490" height="330" />  <img align=right width="490" height="330" src="https://user-images.githubusercontent.com/105945382/211252102-a15431de-2179-451d-952e-5b816f1a82c3.png">
 
 
 
