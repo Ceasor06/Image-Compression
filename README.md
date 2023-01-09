@@ -96,3 +96,4 @@ The autoencoder successfully encode the image and decode the image with the accu
 
 <hr>
 
+Thank you for reading 😃.
