@@ -42,5 +42,16 @@ For Huffman and DCT:
 3 images were used that are given [here](https://github.com/Ceasor06/Image-Compression/tree/main/Images%20Used%20for%20Huffman%20and%20DCT).
 <hr>
 
+## Results
+
+### HUFFMAN ALGORITHM :
+
+Image before compression :
+
+<img src="https://github.com/Ceasor06/Image-Compression/blob/main/Images%20Used%20for%20Huffman%20and%20DCT/image2.jpeg" width="500" height="300" />
+
+
+
+
 
 
