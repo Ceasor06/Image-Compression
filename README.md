@@ -53,7 +53,7 @@ For Huffman and DCT:
 
 
 
-_Entropy, Average code word length and code efficiency of the Huffman Coding is given as :_
+***Entropy, Average code word length and code efficiency of the Huffman Coding is given as :***
 
 | Image | Entropy | Average Code Word Length | Coding Efficiency |
 | :---: | :---: | :---: | :---: |
@@ -61,7 +61,7 @@ _Entropy, Average code word length and code efficiency of the Huffman Coding is 
 | Image 2 | 7.8082 | 7.88423 | 99.562 |
 | Image 3 | 7.8312 | 7.8487 | 99.777 |
 
-The average coding efficiency offered by this approach is 99.654%.
+_The average coding efficiency offered by this approach is 99.654%._
 <hr>
 
 ### DISCRETE COSINE TRANSFORM
@@ -71,4 +71,14 @@ The average coding efficiency offered by this approach is 99.654%.
 | Image 1 | 291 KB | 209 KB | 28.17 |
 | Image 2 | 426 KB | 147 KB | 65.5 |
 | Image 3 | 934 KB | 213 KB | 77.2 |
+
+_The average ccompression offered by this approach is 56.956%._
+<hr>
+
+### AUTO-ENCODER
+
+The autoencoder successfully encoded the image with a loss of 0.280 and with an accuracy of 50. The encoder block successfully encoded the given image
+
+<img width="1022" alt="image" src="https://user-images.githubusercontent.com/105945382/211366389-f2bb9508-0835-421e-acfb-da20c61fe5d0.png">
+
 
